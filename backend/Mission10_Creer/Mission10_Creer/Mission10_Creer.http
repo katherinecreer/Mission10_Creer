@@ -1,0 +1,6 @@
+@Mission10_Creer_HostAddress = http://localhost:5071
+
+GET {{Mission10_Creer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
